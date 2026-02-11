@@ -7,7 +7,7 @@ Requirements
 ------------
 
 - Python 3.10
-- Training requires **NVIDIA GPU + CUDA** (uses NCCL + `torchrun` / DDP)
+- Training requires *NVIDIA GPU + CUDA* (uses NCCL + `torchrun` / DDP)
 
 Installation
 ------------
