@@ -2,6 +2,22 @@
 
 Implementation for the paper **“Learning to Solve Many-to-Many Pickup and Delivery Problems with Multi-head Heterogeneous Attention”**.
 
+Paper
+------------
+
+```bash
+@ARTICLE{11456439,
+  author={Meghwal, Bihareelal and Gupta, Manu Kumar and Gupta, Shiv Kumar},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Learning to Solve Many-to-Many Pickup and Delivery Problems With Multi-Head Heterogeneous Attention}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TITS.2026.3675631}}
+```
+
+
 
 Requirements
 ------------
