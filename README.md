@@ -7,9 +7,9 @@ Paper
 
 ```bash
 @ARTICLE{11456439,
+  title={Learning to Solve Many-to-Many Pickup and Delivery Problems With Multi-Head Heterogeneous Attention},
   author={Meghwal, Bihareelal and Gupta, Manu Kumar and Gupta, Shiv Kumar},
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
-  title={Learning to Solve Many-to-Many Pickup and Delivery Problems With Multi-Head Heterogeneous Attention}, 
   year={2026},
   volume={},
   number={},
